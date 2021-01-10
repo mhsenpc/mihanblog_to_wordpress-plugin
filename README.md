@@ -1,10 +1,9 @@
-Mihanblog posts to wordpress
+![Mihanblog posts to wordpress](mihanblog.jpg)
+
+افزونه انتقال مطالب میهن بلاگ به وردپرس
 <br>
 Tested on wordpress 4.8.3
 <br>
+برای انتقال مطالب وبلاگ میهن بلاگی به سایت وردپرسی می تونید از این افزونه استفاده کنید
 <br>
-<a href='https://gnulover.ir/%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84-%D9%BE%D8%B3%D8%AA-%D9%87%D8%A7%DB%8C-%D9%85%DB%8C%D9%87%D9%86-%D8%A8%D9%84%D8%A7%DA%AF-%D8%A8%D9%87-%D9%88%D8%B1%D8%AF%D9%BE%D8%B1%D8%B3/'>More info here</a>
-<br>
-http://gnulover.ir
-<br>
-mhsenpc@gmail.com
+
